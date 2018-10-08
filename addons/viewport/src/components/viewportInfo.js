@@ -116,7 +116,7 @@ export const viewports = {
     },
   },
   smallScreen: {
-    name 'Small Screen',
+    name: 'Small Screen',
     styles: {
       height: '480px',
       width: '320px',
