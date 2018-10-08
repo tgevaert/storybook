@@ -75,7 +75,7 @@ export const viewports = {
       ...configuredStyles,
     },
   },
-  sm-g360h: {
+  'sm-g360h': {
     name: 'Galaxy Core Prime',
     styles: {
       height: '533px',
@@ -83,7 +83,7 @@ export const viewports = {
       ...configuredStyles,
     },
   },
-  gt-i9195t: {
+  'gt-i9195t': {
     name: 'Galaxy S4 Mini',
     styles: {
       height: '640px',
@@ -91,7 +91,7 @@ export const viewports = {
       ...configuredStyles,
     },
   },
-  y541-u02: {
+  'y541-u02': {
     name: 'HUAWEI Y541-U02',
     styles: {
       height: '569px',
@@ -99,7 +99,7 @@ export const viewports = {
       ...configuredStyles,
     },
   },
-  tecno-cx-air: {
+  'tecno-cx-air': {
     name: 'Tecno CX Air',
     styles: {
       height: '602px',
@@ -107,7 +107,7 @@ export const viewports = {
       ...configuredStyles,
     },
   },
-  alcatel-9003x: {
+  'alcatel-9003x': {
     name: 'Alcatel 9003X',
     styles: {
       height: '976px',
