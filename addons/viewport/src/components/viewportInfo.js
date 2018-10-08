@@ -5,7 +5,7 @@ export const configuredStyles = {
   boxShadow: 'rgba(0,0,0,0.2) 0px 0px 60px 12px',
 };
 
-export const defaultViewport = 'default';
+export const defaultViewport = 'nexus5x';
 export const resetViewport = {
   name: 'Reset',
   styles: {
@@ -73,6 +73,53 @@ export const viewports = {
       height: '732px',
       width: '412px',
       ...configuredStyles,
+    },
+  },
+  sm-g360h: {
+    name: 'Galaxy Core Prime',
+    styles: {
+      height: '533px',
+      width: '320px',
+      ...configuredStyles,
+    },
+  },
+  gt-i9195t: {
+    name: 'Galaxy S4 Mini',
+    styles: {
+      height: '640px',
+      width: '360px',
+      ...configuredStyles,
+    },
+  },
+  y541-u02: {
+    name: 'HUAWEI Y541-U02',
+    styles: {
+      height: '569px',
+      width: '320px',
+      ...configuredStyles,
+    },
+  },
+  tecno-cx-air: {
+    name: 'Tecno CX Air',
+    styles: {
+      height: '602px',
+      width: '360px',
+      ...configuredStyles,
+    },
+  },
+  alcatel-9003x: {
+    name: 'Alcatel 9003X',
+    styles: {
+      height: '976px',
+      width: '600px',
+      ...configuredStyles,
+    },
+  },
+  smallScreen: {
+    name 'Small Screen',
+    styles: {
+      height: '480px',
+      width: '320px',
     },
   },
 };
